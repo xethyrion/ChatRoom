@@ -1,0 +1,4 @@
+.Go Project Settings/build
+.Go Project Settings/run
+.vscode/tasks.json
+bin/ChatRoom

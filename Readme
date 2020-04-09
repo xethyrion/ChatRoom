@@ -1,1 +1,6 @@
-
+A Simple ChatRoom
+A user connects, sets up a nickname and is capable of sending messages to anyone
+The Server accepts the following commands once the client connection is established:
+1. "/Nick DesiredNick" - Sets the client's nick to DesiredNick
+2. "/Say message here" - Message here.
+3. "/Disconnect" - Tells the server you want to disconnect and closes connection.
