@@ -1,5 +1,5 @@
 A Simple ChatRoom
-A user connects, sets up a nickname and is capable of sending messages to anyone
+A user first needs to authenticate using /Authenticate Joe 321 (for example, user.db can be edited for customization.)
 The Server accepts the following commands once the client connection is established:
 1. "/Nick DesiredNick" - Sets the client's nick to DesiredNick
 2. "/Say message here" - Message here.
